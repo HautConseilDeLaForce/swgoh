@@ -1,4 +1,4 @@
-sed -i -e "s/:o2: - --- /| X /g" docs/*.md
+sed -i -e "s/:o2: - ---/| X /g" docs/*.md
 sed -i -e "s/:one:/| (1)/g" docs/*.md
 sed -i -e "s/:two:/| (2)/g" docs/*.md
 sed -i -e "s/:three:/| (3)/g" docs/*.md
