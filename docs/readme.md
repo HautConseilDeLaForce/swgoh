@@ -1,4 +1,5 @@
 # Galaxie of Heroes
+{:toc}
 
 ## Guerre de territoire en cours :
 
