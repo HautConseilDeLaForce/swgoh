@@ -158,3 +158,8 @@ schéma : **(R) N/xxK**
 | X | X | X | X 
 | (1) 1/30K | X 
 | X | X | X | X 
+
+## Contacts 
+
+* [Slack](https://join.slack.com/t/hautconseildelaforce/shared_invite/zt-fbjhe9n4-a57i5u6D6KNFAXnOXQqlKg)
+* [Discorde](https://discord.gg/9ufJHmB)
