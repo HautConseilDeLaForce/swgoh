@@ -3,9 +3,15 @@
 
 ## Bataille de teritoire en cours :
 
+### Phase 1
+
 ![Phase 1](images/200614/phase1.png)
 
+### Phase 2
+
 ![Phase 2](./images/200614/phase2.png)
+
+### Phase 3
 
 ![Phase 3](./images/200614/phase3.png)
 
