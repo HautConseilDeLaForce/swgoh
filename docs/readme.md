@@ -1,166 +1,23 @@
 # Galaxie of Heroes
 {:toc}
 
-## Guerre de territoire en cours :
+## Bataille de teritoire en cours :
 
-schéma : **(R) N/xxK**
+![images/200614/phase1.png](Phase 1)
 
-* (R) => Ordre de priorité
-* N => nombre d'escadre à déployer
-* xxK => puissance minimale
+![images/200614/phase2.png](Phase 2)
 
+![images/200614/phase3.png](Phase 3)
 
-| Arcann | | | |
-|---|---|---|---| 
-| X | (3) 2 --- | (4) 1/50K | (1) 3/60K
-| (8) 2/30K | (6) 3/40K
-| X | (7) 1/40K | (5) 3/50K | (2) 2/60K
-
-| Caneasucre94 | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| X | (3) 1/40K
-| (4) 1/30K | X | (2) 1/50K | X 
-
-| CaptainMoi | | | |
-|---|---|---|---| 
-| X | X | X | X 
-| X | X 
-| X | (1) 1/40K | X | X 
-
-| Dark R4gn4r | | | |
-|---|---|---|---|
-| X | (1) 1 --- | X | X 
-| X | (2) 1/40K
-| X | X | X | X 
-
-| Darnidec | | | |
-|---|---|---|---| 
-| X | (1) 1 --- | X | X 
-| X | X 
-| (2) 2/30K | X | X | X 
-
-| Dave than | | | |
-|---|---|---|---|
-| (4) 1 --- | (3) 1 --- | X | (1) 2/60K
-| X | (6) 2/40K
-| (7) 1/30K | X | (5) 1/50K | (2) 2/60K
-
-| Fard Ventel | | | |
-|---|---|---|---|
-| (1) 1 --- | X | (2) 1/50K | X 
-| X | X 
-| X | X | X | X 
-
-| Faroer Laike | | | |
-|---|---|---|---| 
-| (3) 1 --- | (2) 1 --- | (4) 1/50K | (1) 1/60K
-| (6) 1/30K | X 
-| X | (5) 1/40K | X | X 
-
-| FontenayForce | | | |
-|---|---|---|---| 
-| X | X | (1) 1/50K | X 
-| X | X 
-| (3) 1/30K | (2) 1/40K | X | X 
-
-| Jimi | | | |
-|---|---|---|---| 
-| (4) 1 --- | (3) 1 --- | (5) 1/50K | (1) 1/60K
-| (7) 3/30K | X 
-| (8) 1/30K | (6) 2/40K | X | (2) 1/60K
-
-| Joule | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| X | X 
-| X | X | X | X 
-
-| Kaleb the Hammer | | | |
-|---|---|---|---|
-| X | (3) 2 --- | (4) 2/50K | (1) 2/60K
-| X | X 
-| (7) 1/30K | (6) 2/40K | (5) 4/50K | (2) 5/60K
-
-| Mortagrim | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| X | (2) 1/40K
-| X | X | X | X 
-
-| Nevski | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| (2) 1/30K | X 
-| X | X | X | X 
-
-| piicoo | | | |
-|---|---|---|---|
-| X | X | X | X 
-| X | (1) 1/40K
-| X | X | X | X 
-
-| Psychoo | | | |
-|---|---|---|---|
-| X | X | X | X 
-| (1) 1/30K | X 
-| X | X | X | X 
-
-| Psychøø85 | | | |
-|---|---|---|---|
-| (3) 1 --- | (2) 1 --- | (4) 2/50K | X 
-| X | (5) 1/40K
-| (6) 1/30K | X | X | (1) 2/60K
-
-| Rhuynn | | | |
-|---|---|---|---|
-| (2) 1 --- | X | (3) 1/50K | (1) 1/60K
-| X | X 
-| X | (5) 1/40K | (4) 1/50K | X 
-
-| Seigneur Lux Inda | | | |
-|---|---|---|---|
-| (3) 1 --- | (2) 1 --- | (4) 1/50K | X 
-| X | (6) 1/40K
-| X | X | (5) 1/50K | (1) 1/60K
-
-| ShyFr3EzY | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| X | X 
-| X | X | (2) 1/50K | X 
-
-| styx | | | |
-|---|---|---|---|
-| X | (1) 1 --- | X | X 
-| X | X 
-| X | X | X | X 
-
-| Toine | | | |
-|---|---|---|---|
-| (1) 1 --- | X | X | X 
-| (3) 1/30K | X 
-| (4) 1/30K | X | (2) 1/50K | X 
-
-| totor | | | |
-|---|---|---|---|
-| (3) 1 --- | (2) 1 --- | (4) 2/50K | (1) 4/60K
-| (7) 1/30K | X 
-| (8) 1/30K | (6) 1/40K | (5) 1/50K | X 
-
-| Tryphon | | | |
-|---|---|---|---|
-| X | (2) 1 --- | (3) 1/50K | X 
-| X | X 
-| X | (4) 1/40K | X | (1) 1/60K
-
-| Veskasa Stargazer | | | |
-|---|---|---|---|
-| X | X | X | X 
-| (1) 1/30K | X 
-| X | X | X | X 
+Suite à venir...
 
 ## Contacts 
 
 * [Slack](https://join.slack.com/t/hautconseildelaforce/shared_invite/zt-fbjhe9n4-a57i5u6D6KNFAXnOXQqlKg)
 * [Discorde](https://discord.gg/9ufJHmB)
+
+## Historique 
+
+### Guerre des teritoires 
+
+* [GDT du 13 Juin 2020 - Perdue](pages/GDT-200613.html)
