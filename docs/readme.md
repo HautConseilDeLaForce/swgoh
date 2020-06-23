@@ -1,31 +1,143 @@
 # Galaxie of Heroes
 {:toc}
 
-## Bataille de teritoire en cours :
+## Guerre de teritoire en cours :
 
-### Phase 1
+schéma : **(R) N/xxK**
 
-![Phase 1](images/200614/phase1.png)
+* (R) => Ordre de priorité
+* N => nombre d'escadre à déployer
+* xxK => puissance minimale
 
-### Phase 2
 
-![Phase 2](./images/200614/phase2.png)
+| Arcann | | | |
+|---|---|---|---|
+| (4) 1 --- | (5) 1 --- | (3) 3/70K | (1) 1/60K
+| (7) 1/40K | (6) 3/30K
+| X  | (8) 2/30K | X  | (2) 2/60K
 
-### Phase 3
+| Caneasucre94 | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| (2) 1/40K | X 
+| X  | (3) 1/30K | X  | X 
 
-![Phase 3](./images/200614/phase3.png)
+| CaptainMoi | | | |
+|---|---|---|---|
+| X  | X  | X  | X 
+| X  | X 
+| X  | X  | (1) 1/50K | X 
 
-### Phase 4
+| Dark R4gn4r | | | |
+|---|---|---|---|
+| (1) 1 --- | X  | X  | X 
+| X  | X 
+| X  | X  | (2) 1/50K | X 
 
-![Phase 4](images/200614/phase4.png)
+| Darnidec | | | |
+|---|---|---|---|
+| (1) 1 --- | X  | X  | X 
+| X  | X 
+| X  | (2) 1/30K | X  | X 
 
-### Phase 5
+| Dave than | | | |
+|---|---|---|---|
+| (3) 1 --- | (4) 1 --- | (2) 1/70K | X 
+| (6) 1/40K | (5) 1/30K
+| X  | X  | X  | (1) 3/60K
 
-![Phase 5](./images/200614/phase5.png)
+| Fard Ventel | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| X  | (2) 1/30K
+| X  | X  | X  | X 
 
-### Phase 6
+| Faroer Laike | | | |
+|---|---|---|---|
+| (2) 1 --- | (3) 1 --- | X  | (1) 1/60K
+| (4) 2/40K | X 
+| X  | (5) 1/30K | X  | X 
 
-Un jour peut être...
+| FontenayForce | | | |
+|---|---|---|---|
+| X  | X  | X  | X 
+| (1) 1/40K | X 
+| (2) 1/40K | X  | X  | X 
+
+| Jimi | | | |
+|---|---|---|---|
+| (3) 1 --- | X  | X  | (1) 1/60K
+| (4) 2/40K | X 
+| X  | (5) 2/30K | X  | (2) 1/60K
+
+| Joule | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| X  | X 
+| X  | X  | X  | X 
+
+| Kaleb the Hammer | | | |
+|---|---|---|---|
+| (4) 2 --- | X  | (3) 1/70K | (1) 6/60K
+| (6) 1/40K | (5) 3/30K
+| X  | (7) 2/30K | X  | (2) 1/60K
+
+| Mortagrim | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| X  | X 
+| (2) 1/40K | X  | X  | X 
+
+| Nevski | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| X  | X 
+| (2) 1/40K | X  | X  | X 
+
+| piicoo | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| X  | X 
+| (2) 1/40K | X  | X  | X 
+
+| Psychoo | | | |
+|---|---|---|---|
+| X  | X  | X  | X 
+| X  | X 
+| X  | (1) 1/30K | X  | X 
+
+| Psychøø85 | | | |
+|---|---|---|---|
+| (2) 1 --- | (3) 1 --- | X  | (1) 2/60K
+| (5) 1/40K | (4) 1/30K
+| (6) 1/40K | X  | X  | X 
+
+| Rhuynn | | | |
+|---|---|---|---|
+| X  | (3) 1 --- | X  | (1) 1/60K
+| X  | (4) 1/30K
+| X  | X  | X  | (2) 1/60K
+
+| Toine | | | |
+|---|---|---|---|
+| X  | (1) 1 --- | X  | X 
+| (2) 1/40K | X 
+| X  | (3) 1/30K | X  | X 
+
+| totor | | | |
+|---|---|---|---|
+| (3) 2 --- | X  | (2) 1/70K | X 
+| X  | (4) 2/30K
+| (6) 1/40K | (5) 1/30K | X  | (1) 4/60K
+
+| Tryphon | | | |
+|---|---|---|---|
+| (2) 1 --- | X  | (1) 1/70K | X 
+| (3) 1/40K | X 
+| (4) 1/40K | X  | X  | X 
+
+
+
 
 ## Contacts 
 
@@ -34,6 +146,10 @@ Un jour peut être...
 
 ## Historique 
 
-### Guerre des teritoires 
+### Guerres des teritoires 
 
 * [GDT du 13 Juin 2020 - Perdue](pages/GDT-200613.html)
+
+### Batailles des teritoires 
+
+* [BDT Hoth Juin 2020 - 13 Etoiles](pages/BDT-Hoth-200614.html)
