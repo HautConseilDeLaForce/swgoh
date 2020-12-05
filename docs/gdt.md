@@ -1,32 +1,13 @@
-# Galaxie of Heroes
+# Guerre des territoires 
 {:toc}
 
-## Guerre de teritoire en cours :
+## Aucune activité en cours 
 
-### Phase 1
+##  Autres activité
 
-![Phase 1](../images/200614/phase1.png)
-
-### Phase 2
-
-![Phase 2](../images/200614/phase2.png)
-
-### Phase 3
-
-![Phase 3](../images/200614/phase3.png)
-
-### Phase 4
-
-![Phase 4](../images/200614/phase4.png)
-
-### Phase 5
-
-![Phase 5](../images/200614/phase5.png)
-
-### Phase 6
-
-Un jour peut être...
-
+* [Règles pour les raids](raids.html)
+* [Guerre de teritoire](gdt.html)
+* [Bataille de teritoire](bdt.html)
 
 ## Contacts
 
