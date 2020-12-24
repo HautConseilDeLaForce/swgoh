@@ -22,6 +22,7 @@ sed -i -e "s/Dave than/\n| Dave than | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Dark kai/\n| Dark kai | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Dede Krawatt/\n| Dede Krawatt | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Didjock Nelek/\n| Didjock Nelek | | | |\n|---|---|---|---|/g" docs/*.md
+sed -i -e "s/DorianoWindu/\n| DorianoWindu | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/ducan/\n| ducan | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Falen Lacer/\n| Falen Lacer | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Fard Ventel/\n| Fard Ventel | | | |\n|---|---|---|---|/g" docs/*.md
@@ -32,6 +33,7 @@ sed -i -e "s/Joule/\n| Joule | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Kaleb the Hammer/\n| Kaleb the Hammer | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Lonrak/\n| Lonrak | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Luk la mol/\n| Luk la mol | | | |\n|---|---|---|---|/g" docs/*.md
+sed -i -e "s/L effaceur/\n| L effaceur | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Madara/\n| Madara | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Maître Kéké one/\n| Maître Kéké one | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Rhil Margos/\n| Rhil Margos | | | |\n|---|---|---|---|/g" docs/*.md
@@ -51,9 +53,11 @@ sed -i -e "s/Rhuynn/\n| Rhuynn | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Seigneur Lux Inda/\n| Seigneur Lux Inda | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/ShyFr3EzY/\n| ShyFr3EzY | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Shojiki/\n| Shojiki | | | |\n|---|---|---|---|/g" docs/*.md
+sed -i -e "s/Sieana Rayley Tox/\n| Sieana Rayley Tox | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/styx/\n| styx | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/tessadar/\n| tessadar | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Thraken Vih'Torr/\n| Thraken Vih'Torr | | | |\n|---|---|---|---|/g" docs/*.md
+sed -i -e "s/Tiali Shoma/\n| Tiali Shoma | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Toine/\n| Toine | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Torin Woodle/\n| Torin Woodle | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/totor/\n| totor | | | |\n|---|---|---|---|/g" docs/*.md
