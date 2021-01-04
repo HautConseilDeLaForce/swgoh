@@ -50,6 +50,7 @@ Un jour peut être...
 * [GDT du 08 Octobre 2020 - Gagnée](GDT-201008.html)
 * [GDT du 10 Novemrbe 2020 - Gagnée](GDT-201110.html)
 * [GDT du 21 Décembre 2020 - Gagnée](GDT-201221.html)
+* [GDT du 30 Décembre 2020 - Gagnée](GDT-201230.html)
 
 ### Batailles des teritoires
 
