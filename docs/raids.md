@@ -66,7 +66,63 @@ PENALITES :
 * 2eme et 3eme récidive =>  Pas de top 3 Rancor possible pour le(s) fautif(s)pendant les 3 prochains Raids
 * A la 4éme récidive => exclusion (le jeu ne nous offre pas d'autre mécanismes...) !
 
+
+CAS D’ANNULATION DU RAID :
+• Dans le cas de figure ou trop de membres ne respectent pas les consignes sur un Raid donné, alors les Officiers se réservent le droit d’annuler purement et simplement le Raid avant la fin des 48h
+◦ La conséquence immédiate de l’annulation est qu’aucun membre ne recevra de récompense sur ce Raid, i.e. les fautifs comme les non-fautifs (malheureusement) sont donc pénalisés. Bien évidemment, les fautifs seront également soumis aux pénalités “normales”
+◦ Sur le Raid suivant, le même Top 3 est reconduit sauf si l’un d’eux faisait partie des fautifs
+
 Cela peut vous paraître dur mais l’adhésion à la guilde, c’est avant tout un état d’esprit de partage et d’entraide (dons par exemple).
+
+
+### TIPS
+
+Comment savoir que je ne dépasse pas le maximum de points autorisés durant le Combat ?
+
+* Dans le chat “Raid (instructions)”, nous indiquons également pour chaque phase du Raid le %max de destruction de l’ennemi qui correspond aux points maximums autorisés
+    * Exemple d’un maximum défini à 240 000 points, cela veut dire qu’il ne faut pas dépasser :
+        * 12.82% de destruction si vous jouez en phase 1 ou
+        * 7.86% de destruction si vous jouez en phase 2 ou
+        * 6.84% de destruction si vous jouez en phase 3 ou
+        * 11.38% de destruction si vous jouez en phase 4
+    * Nous donnons ces % dans le chat “Raid (instructions)” (attention, ceci ci-dessus est seulement un exemple)
+
+Donc avant de lancer votre première attaque, notez le % de l’ennemi et par simple soustraction, vous obtenez le % en dessous duquel ne pas descendre
+
+Attention, si vous commencez une bataille sur une phase qui se termine et que vous basculez sur une autre. Le nombre de points max est plus difficile à gérer car les % correspondants sont différents
+
+Comment je contrôle pour ne pas dépasser le nombre de points (ou %) maximums autorisés ?
+
+L’escouade que vous avez choisie est peut-être trop forte ou présente de fortes synergies. Alors comment faire pour contrôler et ne pas dépasser ?
+
+* Nous recommandons de ne pas jouer avec des escouades de plus de 70k de puissance mais même là ça peut facilement être trop fort
+* Jouer avec seulement 4, 3, 2 ou 1 personnages par escouade est possible. Vous avez 5 batailles pour faire le max
+
+**2 autres options existent : FUITE et/ou REPLI**
+
+La FUITE (disponible seulement en Raid Héroïque) :
+
+* L’objectif est de faire quitter vos personnages 1 par 1 avant la fin du combat. Chaque personnage peut donc fuir (quitter l’aire de combat) individuellement
+* dans l’aire de combat, c'est un bouton avec flèche vers le bas apparaissant en partie basse à gauche
+* Ce bouton n'est pas actif dès le début du combat (il faut attendre un certains nombre de tours avant de pouvoir l’utiliser) donc soyez vigilant
+* Quand le bouton est actif pour un personnage dont c'est le tour d'attaquer, cliquez dessus avant de faire attaquer votre personnage. Résultat :
+    * soit la fuite réussit et le personnage disparaît de l’aire de combat
+    * soit échec de la fuite et votre personnage continu le combat. Si échec, il faudra attendre un certains nombre de tours avant que le bouton soit de nouveau disponible pour le personnage en question
+* Ainsi de suite pour chaque personnage
+
+Le problème de la fuite est qu'entre les temps d'initialisation du bouton et des échecs potentiels, il faut d’abord bien anticiper et malgré tout, on peut arriver à dépasser le % max acceptable.
+Dans ce cas, il faut utiliser la 2ème option, le REPLI, avant que tous vos combattants soient morts.
+
+Le REPLI (disponible dans tous les niveaux de tous les Raids) :
+* Accessible à n’importe quel moment dans le menu en haut à gauche de l'aire de combat et effet immédiat
+    * C'est un abandon du combat purement et simplement
+* Vous ne marquez aucun point mais vous gardez le même nombre de batailles encore disponibles. En fait c'est comme si vous n'aviez pas joué
+* Après votre repli, vous pouvez rejouer avec une escouade moins forte et voir ce que ça donne
+    * Attention entre temps, le % restant de l’ennemi a peut-être changé donc refaites vos calculs
+* Si avec la nouvelle escouade et la fuite, vous êtes toujours trop fort, nouveau repli puis nouvelle tentative (il peut arriver que l’on doive se replier 2, 3, 4 fois mais c’est pour le bien de la guilde)
+
+Voilà, vous avez les principes généraux pour respecter les consignes données par les Officiers
+Mais çà ne s’arrête pas là,
 
 
 
