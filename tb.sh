@@ -32,6 +32,7 @@ sed -i -e "s/Fard Ventel/\n| Fard Ventel | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Faroer Laike/\n| Faroer Laike | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/FontenayForce/\n| FontenayForce | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/gerart/\n| gerart | | | |\n|---|---|---|---|/g" docs/*.md
+sed -i -e "s/Godhammer/\n| Godhammer | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/hervennon/\n| hervennon | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Jimi/\n| Jimi | | | |\n|---|---|---|---|/g" docs/*.md
 sed -i -e "s/Joule/\n| Joule | | | |\n|---|---|---|---|/g" docs/*.md
